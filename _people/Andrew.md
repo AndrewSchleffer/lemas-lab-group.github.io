@@ -1,7 +1,7 @@
 ---
 name: Andrew Schleffer
 position: student
-avatar: 
+avatar: Andrew_head.JPG
 twitter: @AndrewSchleffer
 joined: 2018
 ---
